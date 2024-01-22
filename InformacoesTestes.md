@@ -1,5 +1,6 @@
 Olá!
 Aqui realizamos os teste automatizados para as funções para a aplicação Desafio QA:
+
   -Login
   -Incluir cliente
   -Incluir transação
